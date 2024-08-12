@@ -36,4 +36,6 @@ img{
 }
 
 /* Main-content */
-flex-grow:1;
+.main-content{
+    flex-grow:1;
+}
